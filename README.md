@@ -1,12 +1,9 @@
-# React + Vite
+Movix is a dynamic movie and TV show information platform that displays real-time updates using the TMDB API. Built with React.js, Tailwind CSS, and Firebase, the platform offers a responsive interface and seamless navigation to help users explore trending content.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔍 Features
+⚡ Real-time updates with TMDB API
+🔄 Infinite scroll for continuous content browsing
+🎯 Advanced filters to sort movies and shows easily
+🎬 Database of 1,000+ movies and TV series
+🔐 Firebase integration for backend functionality
+📱 Responsive design with Tailwind CSS
